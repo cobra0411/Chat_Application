@@ -14,8 +14,6 @@ Multiple clients are handled by SELECT() command of LINUX.
 
 Once a client disconnects the server can replace its position with new client connections.
 
-Reference : https://beej.us/guide/bgnet/html//#selectman
-
 Server folder acts as a disk(storage)  for the server.
 Each client folder act as its disk storage.
 
